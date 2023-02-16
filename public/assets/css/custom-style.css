@@ -1,0 +1,95 @@
+.footer-big-btn {
+    display: block;
+    padding: 10px 0;
+    border-radius: 50px;
+    cursor: pointer;
+    margin-bottom: 20px;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+}
+.footer-big-btn .ic {
+    color: #fff;
+    float: left;
+    font-size: 36px;
+    line-height: 40px;
+    padding: 0 10px 0 20px;
+    margin-right: 20px;
+    border-right: 1px solid #333;
+}
+.footer-big-btn p {
+    margin: 0 0 4px;
+    font-size: 12px;
+    line-height: 16px;
+    color: rgba(255, 255, 255, 0.5);
+}
+.footer-big-btn h5 {
+    color: #EF4A23;
+    margin: 0;
+    font-size: 20px;
+    line-height: 28px;
+    font-weight: normal;
+}
+.product-info-table tbody {
+    display: flex;
+    flex-wrap: wrap;
+}
+.product-info-table tbody tr {
+    margin: 0 7px 7px -2px;
+    background: rgba(55, 73, 187, .05);
+    border-radius: 30px;
+    line-height: 30px;
+    padding: 0 10px;
+    font-size: 14px;
+}
+.product-info-table tbody tr .product-info-label {
+    color: #666666;
+}
+.product-info-table tbody tr .product-info-label:after {
+    content: ":";
+}
+.product-info-table tbody tr .product-info-data {
+    font-weight: bold;
+    font-size: 14px;
+}
+.p-wrap .price {
+    display: inline-block;
+    font-size: 20px;
+    line-height: 22px;
+    padding-bottom: 5px;
+    font-weight: bold;
+}
+.p-wrap {
+    border: 2px solid rgba(239, 74, 35,0.5);
+    padding: 10px;
+    width: 200px;
+    border-radius: 10px;
+}
+.p-wrap .p-tag {
+    font-size: 13px;
+    line-height: 20px;
+    white-space: nowrap;
+}
+.logo-padding{
+    padding: 5px 0;
+}
+.font_size-qty{
+    font-size: 16px;
+    font-weight: 600;
+}
+.pd-summary {
+    padding-top: 10px;
+}
+.pd-summary h2 {
+    margin: 16px 0;
+    font-size: 18px;
+    font-weight: bold;
+}
+.pd-summary ul {
+    margin: 0;
+    padding: 0;
+}
+.pd-summary ul li {
+    display: block;
+    line-height: 20px;
+    padding-bottom: 10px;
+}
+
